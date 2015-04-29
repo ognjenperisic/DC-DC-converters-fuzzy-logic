@@ -4,7 +4,7 @@ I've been listening (and watching) Andrew Ng's Coursera course on Machine Learni
 
 http://ognjen-perisic.blogspot.com/2015/04/fuzzy-logic.html
 
-To be honest, fuzzy logic is not exactly machine learning protocol. It is more a decision theory, but it can be quite successful, as my thesis shows. 
+To be honest, fuzzy logic is not exactly a machine learning protocol. It is more a decision theory, but it can be quite successful, as my thesis shows. 
 
 The text is 100 pages long, but it can be browsed through easily.
 
