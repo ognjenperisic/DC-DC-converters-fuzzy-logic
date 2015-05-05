@@ -8,4 +8,4 @@ To be honest, fuzzy logic is not exactly a machine learning protocol. It is more
 
 The text is 100 pages long, but it can be browsed through easily.
 
-**My Matlab skills improved noticeably since I wrote that simulation code :-)
+**My Matlab/Octave skills improved noticeably since I wrote that simulation code :-)
